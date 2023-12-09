@@ -1,0 +1,22 @@
+* {
+  font-family: "Roboto", sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+::-webkit-scrollbar {
+  width: 3px;
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background-color: #ffffff;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #ff000d;
+  border: 1px solid transparent;
+  border-radius: 10px;
+  background-clip: border-box;
+}
